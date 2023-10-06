@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.welcome{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 1%;
+}
+img{
+    display: block;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: auto;
+    max-width: 200px;
+    max-height: 200px;
+    padding-bottom: 40px;
+}
+.account-details{
+    display: block flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+ .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+ }
